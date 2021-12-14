@@ -1,0 +1,51 @@
+{
+  "songs": [
+    [
+      "TerraForm",
+      "dad",
+      [
+        146,
+        113,
+        253
+      ],
+      "Bopeebo"
+    ],
+    [
+      "",
+      "dad",
+      [
+        146,
+        113,
+        253
+      ],
+      ""
+    ],
+    [
+      "",
+      "dad",
+      [
+        146,
+        113,
+        253
+      ],
+      ""
+    ]
+  ],
+  "hideFreeplay": false,
+  "weekBackground": "stage",
+  "weekCharacters": [
+    "dad",
+    "bf",
+    "gf"
+  ],
+  "storyName": "bear demo",
+  "weekName": "Custom Week",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "hideStoryMode": false,
+  "weekBefore": "tutorial",
+  "startUnlocked": true
+}
